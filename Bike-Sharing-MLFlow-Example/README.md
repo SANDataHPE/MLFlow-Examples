@@ -1,6 +1,6 @@
 # MLFlow Example Notebook
 
-## Repo: https://github.com
+## Repo: https://github.com/SANDataHPE/MLFlow-Examples/tree/main/Bike-Sharing-MLFlow-Example
 ---
 
 This notebook demonstrates an example of dataset preprocessing, ML model training and evaluation, model tuning via MLflow tracking and finally REST API model serving via MLflow models.
